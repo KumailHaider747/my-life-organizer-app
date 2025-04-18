@@ -1,0 +1,22 @@
+# 🌟 MyLife Organizer
+
+MyLife Organizer is a personal web application built as a final project for my Web Theory course. It's designed to help users stay productive by organizing key aspects of daily life, such as goals, notes, and reading lists—all in one place.
+
+## 🚀 Features
+
+- ✅ **User Authentication** (Sign up, Login, Logout)
+- 🧭 **Guidelines Section** to set and maintain life goals
+- 📝 **Note-taking** with create, update, delete functionality
+- 📚 **Books Library**: track books you’ve read or want to read
+- 🔒 Secure routes and proper session handling
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: RESTful APIs (Node.js / Express)
+- **Testing & API Debugging**: Postman
+- **Version Control**: Git & GitHub
+- **Other Concepts**: Routing, Middleware, Protected Routes, JWT (if used)
+
+## 📁 Folder Structure
+
